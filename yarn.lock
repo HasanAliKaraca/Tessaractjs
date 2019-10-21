@@ -111,10 +111,10 @@ tesseract.js-core@^1.0.2:
   resolved "https://registry.yarnpkg.com/tesseract.js-core/-/tesseract.js-core-1.0.2.tgz#1ce33a29dc812357b8356a30ededf8b188043b37"
   integrity sha1-HOM6KdyBI1e4NWow7e34sYgEOzc=
 
-tesseract.js@^1.0.13:
-  version "1.0.13"
-  resolved "https://registry.yarnpkg.com/tesseract.js/-/tesseract.js-1.0.13.tgz#f8ec7342452dffef747b3280d3b29938e4d1b30b"
-  integrity sha512-3l08ItwitlpoO5zb3oxkarl/+bvVWIDagg0xuij0peeCQMl6YCqpH9Xv/658KW8NKQAARkM16Lu3kRqMCdm3hw==
+tesseract.js@^1.0.19:
+  version "1.0.19"
+  resolved "https://registry.yarnpkg.com/tesseract.js/-/tesseract.js-1.0.19.tgz#f66a9accef1aa933ec7e574d1bb3205f7d2aef65"
+  integrity sha512-UXnCd2GkDOuVwPYv8MryzDwXEPLJ/BjEuT76PWzVC8XhZbsChRkpoiKDSGDbZ2BW2rwg1yBWJ0joSdCTw1umBA==
   dependencies:
     file-type "^3.8.0"
     is-url "1.2.2"
